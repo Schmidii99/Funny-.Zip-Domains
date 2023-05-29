@@ -11,6 +11,7 @@ Be aware that links with .zip ending, can now be a link to a website instead of 
 
 - [bomb.zip](http://bomb.zip/)
 - [chatgpt3.zip](http://chatgpt3.zip/)
+- [mypenis.zip](http://mypenis.zip/)
 - [yomama.zip](http://yomama.zip/)
 - [yourcoffee.zip](http://yourcoffee.zip/)
 - [yourdad.zip](http://yourdad.zip/)
@@ -18,4 +19,6 @@ Be aware that links with .zip ending, can now be a link to a website instead of 
 - [yourlife.zip](http://yourlife.zip/)
 - [yourmom.zip](http://yourmom.zip/)
 - [yourmum.zip](http://yourmum.zip/)
+- [yourpenis.zip](http://yourpenis.zip/)
 - [yoursister.zip](http://yoursister.zip/)
+- [yourwife.zip](http://yourwife.zip/)
